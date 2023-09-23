@@ -42,7 +42,7 @@ Consuming souls to recover from death: <br/>
 <br />
 <br />
 After recovering from death: <br/>
-<img src="https://i.imgur.com/Ob1Hrft.png" height="80%" width="80%" alt="Kill The Dang Thing"/>
+<img src="https://i.imgur.com/E0wSbfl.png" height="80%" width="80%" alt="Kill The Dang Thing"/>
 <br />
 <br />
 
