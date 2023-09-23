@@ -10,10 +10,6 @@ First game project. Used as a final exam project for introduction to computer pr
 - <b>C#</b> 
 - <b>Microsoft Visual Studio Forms</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -27,6 +23,18 @@ After defeating first few enemies:  <br/>
 <br />
 Deciding to Rebirth: <br/>
 <img src="https://i.imgur.com/MTAFSAI.png" height="80%" width="80%" alt="Kill The Dang Thing"/>
+<br />
+<br />
+After Rebirth: <br/>
+<img src="https://i.imgur.com/yNVgqaQ.png" height="80%" width="80%" alt="Kill The Dang Thing"/>
+<br />
+<br />
+Starting a New Game: <br/>
+<img src="https://i.imgur.com/7HHRphU.png" height="80%" width="80%" alt="Kill The Dang Thing"/>
+<br />
+<br />
+Consuming souls to recover: <br/>
+<img src="https://i.imgur.com/vkTL2G2.png" height="80%" width="80%" alt="Kill The Dang Thing"/>
 <br />
 <br />
 
